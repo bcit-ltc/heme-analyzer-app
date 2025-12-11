@@ -110,3 +110,13 @@ The formula should concatenate all the dates required for the sample.
 This column should get the current date `=now()`.
 
 Parameters only require data in this column **if** they will be associated with the current run, ie. if there are associated parater values, then these `Presenting` will be added when user clicks to `Run` sample(s). Otherwise, no data means only historical run data are available.
+
+## License
+
+Copyright (c) 2023 Sept ©Vienna Ly
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+## About
+
+Developed in 🇨🇦 Canada at [BCIT's](https://www.bcit.ca/) [Learning and Teaching Centre](https://www.bcit.ca/learning-teaching-centre/). [Contact Us](mailto:courseproduction@bcit.ca).

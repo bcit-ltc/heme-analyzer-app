@@ -1,0 +1,7 @@
+name: ${APP_NAME:-heme-analyzer-app}
+services:
+  app:
+    build: .
+
+    ports:
+      - "8080:8080"
