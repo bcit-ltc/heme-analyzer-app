@@ -1,4 +1,4 @@
-# Heme Anylzer Interactive App
+# Heme Anylzer Interactive
 
 ## Team
 
