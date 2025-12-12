@@ -1,4 +1,4 @@
-# Heme Anylzer Interactive
+# Heme Anylzer Interactive App
 
 ## Team
 
@@ -115,7 +115,7 @@ Parameters only require data in this column **if** they will be associated with 
 
 Copyright (c) 2023 Sept ©Vienna Ly
 
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+<https://creativecommons.org/licenses/by-nc-nd/4.0/>
 
 ## About
 
