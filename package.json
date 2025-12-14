@@ -49,6 +49,6 @@
         "webpack-merge": "^5.8.0"
     },
     "repository": {
-        "url": "git+https://github.com/vie74050/ecgpacerapp.git"
+        "url": "https://github.com/bcit-ltc/heme-analyzer-app"
     }
 }
