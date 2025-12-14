@@ -11,9 +11,8 @@ RUN npm ci --no-audit --no-fund
 COPY . .
 
 # If you need the Google Sheets API key, create a .env file
-# in the repo root before building so dotenv-webpack can pick it up.
-# e.g.:
-#   AppKey=YOUR_GOOGLE_API_KEY
+#   in the repo root before building so dotenv-webpack can pick it up.
+#   e.g.: AppKey=YOUR_GOOGLE_API_KEY
 
 RUN npm run build
 
