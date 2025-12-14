@@ -5,7 +5,11 @@
     "main": "index.html",
     "private": true,
     "release": {
-        "branches": ["main", "next"]
+        "branches": ["main", "next"],
+        "plugins": [
+            "@semantic-release/commit-analyzer",
+            "@semantic-release/release-notes-generator"
+        ]
     },
     "scripts": {
         "start": "webpack serve --open --config webpack.dev.js",
